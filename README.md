@@ -1,4 +1,4 @@
-# node-todo-cicd.... Changing the code lets see how code automatically build or not
+# node-todo-cicd.... Changing the code lets see how code automatically build or not.
 
 Run these commands:
 
